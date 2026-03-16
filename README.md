@@ -1,10 +1,3 @@
-<style>
-  html, body { background-color: #2b2b2b !important; color: #d1d1d1 !important; margin: 0; padding: 0; }
-  .main { max-width: 800px; margin: 40px auto; padding: 20px; font-family: sans-serif; }
-  h1, h2 { color: #ffffff !important; border-bottom: 1px solid #444; }
-  a { color: #58a6ff !important; }
-</style>
-
 <div class="main">
 
 # Semantic Archaeologist | Research Lab
