@@ -13,5 +13,3 @@ Independent Researcher
 
 ---
 *Contact for academic inquiries via GitHub Issues.*
-
-</div>
