@@ -1,5 +1,3 @@
-<div class="main">
-
 # Semantic Archaeologist | Research Lab
 
 Independent Researcher
