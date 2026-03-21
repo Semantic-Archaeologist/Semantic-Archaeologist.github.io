@@ -4,6 +4,7 @@ Independent Researcher
 
 ## Current Research Papers:
 
+* **[A model for the origin of planetary water. Solar reduction of silicon dioxide](https://doi.org/10.5281/zenodo.19126033)**
 * **[THE GEOCOSMIC WATER CYCLE: A DYNAMIC EQUILIBRIUM MODEL](https://doi.org/10.5281/zenodo.19038434)**
 * **[Systemic functional-semantic convergence of the Proto-Germanic roots *fello- and *fōljan-](https://doi.org/10.5281/zenodo.18970364)**
 
